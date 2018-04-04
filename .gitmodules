@@ -1,0 +1,4 @@
+[submodule "bmya/odoo-argentina"]
+	path = bmya/odoo-argentina
+	url = git@github.com:bmya/odoo-argentina.git
+	branch = 10.0
