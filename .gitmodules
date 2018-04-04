@@ -7,3 +7,8 @@
 	path = bmya/account-financial-tools
 	url = git@github.com:bmya/account-financial-tools.git
 	branch = 10.0
+
+[submodule "bmya/account-payment"]
+	path = bmya/account-payment
+	url = git@github.com:bmya/account-payment.git
+	branch = 10.0
