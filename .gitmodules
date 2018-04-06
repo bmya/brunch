@@ -1,0 +1,44 @@
+[submodule "oca-queue"]
+	path = oca-queue
+	url = git@github.com:bmya/queue.git
+	branch = 10.0
+[submodule "oca-reporting-engine"]
+	path = oca-reporting-engine
+	url = git@github.com:bmya/reporting-engine-1.git
+	branch = 10.0
+[submodule "oca-connector"]
+	path = oca-connector
+	url = git@github.com:bmya/connector.git
+	branch = 10.0
+[submodule "oca-product-attribute"]
+	path = oca-product-attribute
+	url = git@github.com:bmya/product-attribute.git
+	branch = 10.0
+[submodule "oca-partner-contact"]
+	path = oca-partner-contact
+	url = git@github.com:bmya/partner-contact.git
+	branch = 10.0
+[submodule "oca-account-financial-tools"]
+	path = oca-account-financial-tools
+	url = git@github.com:bmya/account-financial-tools-1.git
+	branch = 10.0
+[submodule "ingadhoc-miscellaneous"]
+	path = ingadhoc-miscellaneous
+	url = git@github.com:bmya/miscellaneous.git
+	branch = 10.0
+[submodule "ingadhoc-account-financial-tools"]
+	path = ingadhoc-account-financial-tools
+	url = git@github.com:bmya/account-financial-tools.git
+	branch = 10.0
+[submodule "ingadhoc-odoo-argentina"]
+	path = ingadhoc-odoo-argentina
+	url = git@github.com:bmya/odoo-argentina.git
+	branch = 10.0
+[submodule "oca-account-payment"]
+	path = oca-account-payment
+	url = git@github.com:bmya/oca-account-payment.git
+	branch = 10.0
+[submodule "ingadhoc-account-payment"]
+	path = ingadhoc-account-payment
+	url = git@github.com:bmya/account-payment.git
+	branch = 10.0
