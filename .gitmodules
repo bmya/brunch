@@ -67,3 +67,8 @@
 	path = bmya/partner-contact
 	url = git@github.com:bmya/partner-contact.git
 	branch = 10.0
+
+[submodule "bmya/account-financial-tools-1"]
+	path = bmya/account-financial-tools-1
+	url = git@github.com:bmya/account-financial-tools-1.git
+	branch = 10.0
