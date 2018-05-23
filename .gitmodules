@@ -72,3 +72,8 @@
 	path = bmya/account-financial-tools-1
 	url = git@github.com:bmya/account-financial-tools-1.git
 	branch = 10.0
+
+[submodule "bmya/miscellaneous"]
+	path = bmya/miscellaneous
+	url = git@github.com:bmya/miscellaneous.git
+	branch = 10.0
