@@ -62,3 +62,8 @@
 	path = bmya/product-attribute
 	url = git@github.com:bmya/product-attribute.git
 	branch = 10.0
+
+[submodule "bmya/partner-contact"]
+	path = bmya/partner-contact
+	url = git@github.com:bmya/partner-contact.git
+	branch = 10.0
