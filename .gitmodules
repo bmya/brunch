@@ -47,3 +47,8 @@
 	path = bmya/queue
 	url = git@github.com:bmya/queue.git
 	branch = 10.0
+
+[submodule "bmya/reporting-engine-1"]
+	path = bmya/reporting-engine-1
+	url = git@github.com:bmya/reporting-engine-1.git
+	branch = 10.0
