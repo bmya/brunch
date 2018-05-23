@@ -92,3 +92,8 @@
 	path = bmya/account-payment
 	url = git@github.com:bmya/account-payment.git
 	branch = 10.0
+
+[submodule "bmya/odoo-argentina"]
+	path = bmya/odoo-argentina
+	url = git@github.com:bmya/odoo-argentina.git
+	branch = 10.0
