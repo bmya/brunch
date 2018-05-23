@@ -57,3 +57,8 @@
 	path = bmya/connector
 	url = git@github.com:bmya/connector.git
 	branch = 10.0
+
+[submodule "bmya/product-attribute"]
+	path = bmya/product-attribute
+	url = git@github.com:bmya/product-attribute.git
+	branch = 10.0
