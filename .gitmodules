@@ -82,3 +82,8 @@
 	path = bmya/account-financial-tools
 	url = git@github.com:bmya/account-financial-tools.git
 	branch = 10.0
+
+[submodule "bmya/oca-account-payment"]
+	path = bmya/oca-account-payment
+	url = git@github.com:bmya/oca-account-payment.git
+	branch = 10.0
