@@ -52,3 +52,8 @@
 	path = bmya/reporting-engine-1
 	url = git@github.com:bmya/reporting-engine-1.git
 	branch = 10.0
+
+[submodule "bmya/connector"]
+	path = bmya/connector
+	url = git@github.com:bmya/connector.git
+	branch = 10.0
