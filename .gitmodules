@@ -52,3 +52,8 @@
 	path = bmya/odoo-argentina
 	url = git@github.com:bmya/odoo-argentina.git
 	branch = 10.0
+
+[submodule "bmya/server-tools"]
+	path = bmya/server-tools
+	url = git@github.com:bmya/server-tools.git
+	branch = 10.0
