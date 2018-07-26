@@ -58,3 +58,8 @@
 	url = git@github.com:bmya/server-tools.git
 	branch = 10.0
 
+
+[submodule "bmya/web"]
+	path = bmya/web
+	url = git@github.com:bmya/web.git
+	branch = 10.0
