@@ -63,3 +63,8 @@
 	path = bmya/web
 	url = git@github.com:bmya/web.git
 	branch = 10.0
+
+[submodule "bmya/stock-logistics-workflow"]
+	path = bmya/stock-logistics-workflow
+	url = git@github.com:bmya/stock-logistics-workflow.git
+	branch = 10.0
