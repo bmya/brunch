@@ -57,3 +57,8 @@
 	path = bmya/server-tools
 	url = git@github.com:bmya/server-tools.git
 	branch = 10.0
+
+[submodule "oca/server-tools"]
+	path = oca/server-tools
+	url = git@github.com:oca/server-tools.git
+	branch = 10.0
