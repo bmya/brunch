@@ -7,7 +7,7 @@
 ##############################################################################
 {
     'name': 'BOM Cost Price',
-    'version': '1.0',
+    'version': '1.1',
     'category': 'Generic Modules/Manufacturing',
     'sequence': 1,
     'summary': 'App will add cost per unit on bom and cost price on bom components lines.',
@@ -15,10 +15,11 @@
          App will add cost per unit on bom and cost price on bom components lines.
  """,
     'author': 'DevIntelle Consulting Service Pvt.Ltd',
-    'website': 'http://www.devintellecs.com/',
+    'website': 'http://devintellecs.com/',
     'depends': ['mrp'],
     'data': [
         'views/mrp_view.xml',
+        'views/view_product_template.xml',
     ],
     'demo': [],
     'test': [],
